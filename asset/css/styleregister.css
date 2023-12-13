@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(to left, rgb(255, 255, 255), DodgerBlue, DodgerBlue);
+    text-align: left;
+    margin-left: 40px;
+
+}
+.content2 {
+    float: right;
+    margin-top: -450px;
+    mix-blend-mode: darken;
+
+}
+
+.content3 {
+    float: right;
+    margin-top: -300px;
+    mix-blend-mode: darken;
+
+}
